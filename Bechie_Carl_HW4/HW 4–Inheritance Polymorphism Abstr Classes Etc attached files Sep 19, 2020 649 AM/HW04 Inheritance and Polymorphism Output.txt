@@ -1,0 +1,40 @@
+Account data:
+
+Account number  : 10000
+Customer ID     : 1000
+Account type    : M
+Balance         : 93467.62
+Interest rate   : 6.875%
+Term            : 15
+Periodic payment: 847.26
+
+
+
+Transaction ID     : 5001
+Transaction Date   : 20150515
+Transaction amount : 847.26
+Transaction type   : P
+
+Transaction ID     : 5002
+Transaction Date   : 20150615
+Transaction amount : 847.26
+Transaction type   : P
+
+Transaction ID     : 5003
+Transaction Date   : 20150715
+Transaction amount : 847.26
+Transaction type   : P
+
+Transaction ID     : 5004
+Transaction Date   : 20150815
+Transaction amount : 847.26
+Transaction type   : P
+
+Transaction ID     : 5005
+Transaction Date   : 20150915
+Transaction amount : 847.26
+Transaction type   : P
+
+
+The current account balance is 93467.62.
+
